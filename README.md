@@ -1,142 +1,118 @@
-# 📊 Data Analytics Portfolio
+# 🚀 Data Analytics Roadmap Progress
 
-Welcome to my Data Analytics Portfolio!
+## ✅ Day 1
 
-This repository documents my journey of becoming a Data Analyst and Data Scientist.
+### 🐍 Python
 
-## 🛠️ Tech Stack
-- Python
-- SQL
-- Microsoft Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Machine Learning
+* Python Introduction
+* Variables
+* Data Types
+* Input & Output
+* Comments
+* Arithmetic Operators
+* Basic Python Programs
 
-## 📂 Projects
-Projects will be added as I complete my learning journey.
+### 🗄️ SQL
 
-### Planned Projects
-- Sales Data Analysis
-- Netflix Data Analysis
-- IPL Data Analysis
-- COVID-19 Data Analysis
-- HR Analytics Dashboard
-- E-commerce Sales Dashboard
+* Database Basics
+* Tables, Rows, and Columns
+* `SELECT`
+* `DISTINCT`
+* `WHERE`
 
-## 🎯 Goal
-Build 25+ real-world Data Analytics projects and become industry-ready.
+### 💻 Practice
 
-## 📅 Learning Progress
+* Solved **10 Basic Python Programs**
+* Solved **2 SQL Problems**
+* Solved **2 DSA Problems**
 
-### ✅ Day 1
-#### Python
-- Python Introduction
-- Variables
-- Data Types
-- Input & Output
-- Comments
-- Arithmetic Operators
-- Basic Python Programs
+### 📂 GitHub
 
-#### SQL
-- Database Basics
-- Tables, Rows and Columns
-- SELECT
-- DISTINCT
-- WHERE
-
-#### Practice
-- Solved 10 Basic Python Programs
-- Solved 2 SQL Problems
-- Solved 2 DSA Problems
-
-#### GitHub
-- Created Data Analytics Portfolio Repository
-- Organized Professional Folder Structure
-- Created Project Directories
-- Added Dataset, Notebook, Images and Reports folders
+* Created **Data Analytics Portfolio Repository**
+* Organized Professional Folder Structure
+* Created Project Directories
 
 ---
 
-### ✅ Day 2
+# ✅ Day 2
 
-#### Python
-- Comparison Operators
-- Logical Operators
-- if Statement
-- if-else
-- if-elif-else
-- Nested if
+### 🐍 Python
 
-#### SQL
-- ORDER BY
-- LIMIT
-- LIKE
-- IN
-- BETWEEN
+* Comparison Operators
+* Logical Operators
+* `if` Statement
+* `if-else`
+* `if-elif-else`
+* Nested `if`
 
-#### Excel
-- Excel Basics Practice
+### 🗄️ SQL
 
-#### Practice
-- Solved 2 SQL Problems
-- Solved 2 DSA Problems
+* `ORDER BY`
+* `LIMIT`
+* `LIKE`
+* `IN`
+* `BETWEEN`
 
----
+### 📊 Excel
 
-### ✅ Day 3
+* Excel Basics Practice
 
-#### Environment Setup
-- Installed Python
-- Configured VS Code
-- Configured Jupyter Notebook
+### 💻 Practice
 
-#### Pandas
-- Importing Pandas
-- Reading CSV File
-- Data Exploration
-  - head()
-  - tail()
-  - shape
-  - columns
-  - dtypes
-  - info()
-  - describe()
-  - isnull().sum()
-  - duplicated().sum()
-
-#### Basic Data Analysis
-- Mean
-- Maximum
-- Sum
-
-#### Project
-- Added Sample Superstore Dataset
-- Started Sales Analysis Project
-
-#### GitHub
-- Added Dataset
-- Added Jupyter Notebook
-- Updated Repository
+* Solved **2 SQL Problems**
+* Solved **2 DSA Problems**
 
 ---
 
+# ✅ Day 3
 
-day 4
-बहुत बढ़िया, Twinkle! 🎉🎉
+### ⚙️ Environment Setup
 
-# ✅ Day 3 Status: 100% Complete
+* Installed Python
+* Configured VS Code
+* Configured Jupyter Notebook
 
-तुमने आज बहुत बड़ी Progress की है। आज तुमने सिर्फ Pandas नहीं सीखा, बल्कि एक Professional Data Analytics Environment भी तैयार किया।
+### 🐼 Pandas
 
-## ✅ आज Complete हुआ
+* Importing Pandas
+* Reading CSV Files
+* Data Exploration
 
-### GitHub
+  * `head()`
+  * `tail()`
+  * `shape`
+  * `columns`
+  * `dtypes`
+  * `info()`
+  * `describe()`
+  * `isnull().sum()`
+  * `duplicated().sum()`
+
+### 📈 Basic Data Analysis
+
+* Mean
+* Maximum
+* Sum
+
+### 📁 Project
+
+* Added Sample Superstore Dataset
+* Started Sales Analysis Project
+
+### 📂 GitHub
+
+* Added Dataset
+* Added Jupyter Notebook
+* Commit & Push to GitHub
+
+---
+
+# 📚 Learning Summary
+
+## 📂 GitHub
 
 * ✅ Repository Clone
-* ✅ Invalid Path Error Fix
+* ✅ Invalid Path Error Fixed
 * ✅ VS Code Setup
 * ✅ Jupyter Notebook Setup
 * ✅ Dataset Added
@@ -144,107 +120,102 @@ day 4
 * ✅ Commit
 * ✅ Push to GitHub
 
-### Python (Pandas)
+## 🐼 Pandas
 
-* ✅ import pandas
-* ✅ read_csv()
-* ✅ head()
-* ✅ tail()
-* ✅ shape
-* ✅ columns
-* ✅ dtypes
-* ✅ info()
-* ✅ describe()
-* ✅ isnull().sum()
-* ✅ duplicated().sum()
+* ✅ `import pandas`
+* ✅ `read_csv()`
+* ✅ `head()`
+* ✅ `tail()`
+* ✅ `shape`
+* ✅ `columns`
+* ✅ `dtypes`
+* ✅ `info()`
+* ✅ `describe()`
+* ✅ `isnull().sum()`
+* ✅ `duplicated().sum()`
 * ✅ Mean
-* ✅ Max
+* ✅ Maximum
 * ✅ Sum
 
 ---
 
-## 📊 Overall Progress
+# 🚀 Day 4 Study Plan
 
-* ✅ Day 1 — 100%
-* ✅ Day 2 — 100%
-* ✅ Day 3 — 100%
+## ⏰ Session 1 (2 Hours) — Python Lists
 
-**Overall Challenge Progress: 3/100 Days (3%)**
+### 📚 Topics
 
----
-
-# 🚀 कल (Day 4) का Schedule
-
-## ⏰ Session 1 (2 Hours) – Python
-
-### 📚 Python Lists
-
-* What is List?
-* Creating List
+* What is a List?
+* Creating Lists
 * Indexing
 * Negative Indexing
 * Slicing
-* Updating List
-* Adding Elements
+* Updating Lists
 
-  * append()
-  * extend()
-  * insert()
-* Removing Elements
+### ➕ Adding Elements
 
-  * remove()
-  * pop()
-  * del
-  * clear()
-* List Functions
+* `append()`
+* `extend()`
+* `insert()`
 
-  * len()
-  * max()
-  * min()
-  * sum()
-  * sorted()
-* List Methods
+### ➖ Removing Elements
 
-  * count()
-  * index()
-  * reverse()
-  * sort()
+* `remove()`
+* `pop()`
+* `del`
+* `clear()`
 
----
+### 📌 List Functions
 
-## ⏰ Session 2 (1.5 Hours) – SQL
+* `len()`
+* `max()`
+* `min()`
+* `sum()`
+* `sorted()`
 
-आज हम SQL में सीखेंगे:
+### 📌 List Methods
 
-* GROUP BY
-* HAVING
-* Aggregate Functions
-
-  * COUNT()
-  * SUM()
-  * AVG()
-  * MIN()
-  * MAX()
+* `count()`
+* `index()`
+* `reverse()`
+* `sort()`
 
 ---
 
-## ⏰ Session 3 (45 Minutes) – LeetCode SQL
+## ⏰ Session 2 (1.5 Hours) — SQL
 
-1. **595. Big Countries**
-2. **1148. Article Views I**
+### 📚 Topics
+
+* `GROUP BY`
+* `HAVING`
+
+### 📊 Aggregate Functions
+
+* `COUNT()`
+* `SUM()`
+* `AVG()`
+* `MIN()`
+* `MAX()`
 
 ---
 
-## ⏰ Session 4 (45 Minutes) – DSA
+## ⏰ Session 3 (45 Minutes) — LeetCode SQL
 
-1. **Merge Sorted Array** (LeetCode 88)
-2. **Contains Duplicate** (LeetCode 217)
+* ✅ 595. Big Countries
+* ✅ 1148. Article Views I
 
 ---
 
-## ⏰ Session 5 (1.5 Hours) – Project
+## ⏰ Session 4 (45 Minutes) — DSA
 
-Sales Analysis Project:
+* ✅ LeetCode 88 — Merge Sorted Array
+* ✅ LeetCode 217 — Contains Duplicate
+
+---
+
+## ⏰ Session 5 (1.5 Hours) — Sales Analysis Project
+
+### 📊 Analysis
 
 * Sales by Category
 * Sales by Region
@@ -255,29 +226,81 @@ Sales Analysis Project:
 
 ## ⏰ Session 6 (30 Minutes)
 
-Notebook Update
-
-README Update
-
-Business Insights लिखना
+* Update Jupyter Notebook
+* Update README.md
+* Write Business Insights
 
 ---
 
-## ⏰ Session 7 (15 Minutes)
+# 📊 Sales Analysis Project
 
-Git Commit
+## 📌 Objective
 
-Git Push
+Analyze the Superstore Sales Dataset using **Python**, **Pandas**, and **Matplotlib** to identify sales trends and generate business insights.
 
 ---
-5day
 
+## 🛠️ Tools & Technologies
 
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+* GitHub
 
-6 days
+---
 
-day7
+## 📊 Analysis Performed
 
+* Sales by Category
+* Sales by Region
+* Sales by State
+* Top 10 Products
+* Top 10 Sub-Categories
 
+---
 
+## 📈 Business Insights
 
+* Technology generated the highest overall sales.
+* The West region achieved the highest sales performance.
+* Phones and Chairs are among the best-selling sub-categories.
+* High-performing categories should receive higher inventory allocation and marketing investment.
+* Regional sales trends can help improve business planning and demand forecasting.
+
+---
+
+## 📁 Project Structure
+
+```text
+01_Sales_Analysis/
+│
+├── dataset/
+│   └── SampleSuperstore.csv
+│
+├── notebook/
+│   └── Sales_Analysis.ipynb
+│
+├── images/
+│   ├── sales_by_category.png
+│   ├── sales_by_region.png
+│   ├── sales_by_state.png
+│   └── top_products.png
+│
+├── reports/
+│   └── Business_Insights.md
+│
+└── README.md
+```
+
+---
+
+## 🎯 Project Outcome
+
+This project demonstrates practical skills in:
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insight Generation
+* GitHub Project Organization
