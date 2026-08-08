@@ -304,3 +304,6 @@ This project demonstrates practical skills in:
 * Data Visualization
 * Business Insight Generation
 * GitHub Project Organization
+
+
+day8
